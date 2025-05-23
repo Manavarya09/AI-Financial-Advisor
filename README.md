@@ -8,12 +8,14 @@ Preprocessing Pipeline: Cleans and structures financial time-series data for ML 
 Predictive Modeling: Implements a RandomForestRegressor to predict the next day's closing stock price.
 Modular Architecture: Clean separation between data collection, processing, modeling, and prediction logic.
 Extensibility: Easy to expand with other algorithms (LSTM, XGBoost) or other financial assets (crypto, ETFs).
+
 🔧 Tech Stack
 Python, Pandas, NumPy
 scikit-learn for ML modeling
 yFinance for data access
 joblib for model persistence
 (Optional) Streamlit/Flask for dashboard deployment
+
 📈 Use Case
 This project is ideal for:
 
